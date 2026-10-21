@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Book Spine Outer Cover -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M24,38 C36,33 48,34 54,37.5 L54,80 C48,76.5 36,75.5 24,80 Z" />
+
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M84,38 C72,33 60,34 54,37.5 L54,80 C60,76.5 72,75.5 84,80 Z" />
+
+    <!-- Main Front Pages (Warm Cream White) -->
+    <path
+        android:fillColor="#FFF9EB"
+        android:pathData="M27,36 C38,31.5 48,32.5 53.5,35.5 L53.5,77 C48,74 38,73 27,77 Z" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M81,36 C70,31.5 60,32.5 54.5,35.5 L54.5,77 C60,74 70,73 81,77 Z" />
+
+    <!-- Text Lines Left Page -->
+    <path
+        android:fillColor="#90A4AE"
+        android:pathData="M33,44 h14 v2 h-14 z M33,50 h14 v2 h-14 z M33,56 h10 v2 h-10 z" />
+
+    <!-- Text Lines Right Page -->
+    <path
+        android:fillColor="#90A4AE"
+        android:pathData="M61,44 h14 v2 h-14 z M61,50 h14 v2 h-14 z M61,56 h10 v2 h-10 z" />
+
+    <!-- Golden Bookmark Ribbon -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M52,31 h4 v32 l-2,-3 l-2,3 z" />
+
+    <!-- Star Emblem Above Book -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,20 L56.2,24.5 L61,25.2 L57.5,28.6 L58.3,33.4 L54,31.1 L49.7,33.4 L50.5,28.6 L47,25.2 L51.8,24.5 Z" />
+</vector>
